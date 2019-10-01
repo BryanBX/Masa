@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\Masa\bin\Debug\Masa.exe.config
+E:\Google Drive\Proyects\Masa\bin\Debug\Masa.exe
+E:\Google Drive\Proyects\Masa\bin\Debug\Masa.pdb
+E:\Google Drive\Proyects\Masa\obj\Debug\Masa.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\Masa\obj\Debug\Masa.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\Masa\obj\Debug\Masa.exe
+E:\Google Drive\Proyects\Masa\obj\Debug\Masa.pdb
